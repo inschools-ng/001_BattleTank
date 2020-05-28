@@ -4,7 +4,7 @@
 
 
 An **Open-World** Game with 
-1. *Simple AI 
-2. *Advanced Control System 
+1. *Simple AI* 
+2. *Advanced Control System* 
 
 
