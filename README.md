@@ -1,5 +1,5 @@
 # 001_BattleTank
-## A Simple Game
+## A Simple OpenWorld H2H Game
 ### With A Simple AI, Terrain and Control System
 
 
