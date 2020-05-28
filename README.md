@@ -7,4 +7,10 @@ An **Open-World** Game with
 1. *Simple AI* 
 2. *Advanced Control System* 
 
+These are files from **Ben Tristem's Unreal Course.**
+
+*Enjoy Yourself*
+
+InSchools 
+
 
