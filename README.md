@@ -1,2 +1,7 @@
 # 001_BattleTank
-An Open-World Game with Simple AI and Advanced Control System in Unreal Engine.
+## A Simple Game
+### With A Simple Ai, Terrain and Control System
+
+
+An **Open-World** Game with 1. Simple AI 2. Advanced Control System in <*Unreal Engine.*>
+
