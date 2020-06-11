@@ -26,5 +26,8 @@ public:
 	/// intersects the world
 	void AimTowardsCrosshair();
 
-	
+
+	// Return an out parameter, true if hit location
+	bool GetSightRayHitLocation(FVector& OutHitLocation) const; 
+
 };
